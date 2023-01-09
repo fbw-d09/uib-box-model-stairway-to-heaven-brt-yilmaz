@@ -1,0 +1,29 @@
+.margin-exercise {
+  border: 7px solid #E864B3;
+  margin: 200px auto;
+  width: 600px;
+  height: 600px;  
+}
+
+.box-margin {
+  width: 25%;
+  height: 25%;
+  background-color: lime;
+  box-sizing: border-box;
+}
+
+.box-margin-1 {
+  margin-left: 75%;
+}
+
+.box-margin-2 {
+  margin-left: 50%;
+  margin-right: 25%;
+  border: 7px solid darkgray;
+}
+
+.box-margin-3 {
+  margin-left: 25%;
+  margin-right: 50%;
+}
+
