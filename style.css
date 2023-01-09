@@ -19,7 +19,7 @@
 .box-margin-2 {
   margin-left: 50%;
   margin-right: 25%;
-  border: 7px solid darkgray;
+  border: 7px solid rgb(116, 112, 112);
 }
 
 .box-margin-3 {
@@ -27,3 +27,6 @@
   margin-right: 50%;
 }
 
+.box-margin-4 {
+  border: 7px solid rgb(116, 112, 112);
+}
